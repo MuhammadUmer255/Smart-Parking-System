@@ -40,3 +40,36 @@ Color Status
 Fast lookup, insertion & deletion  
 **O(1)** time complexity for check-in and check-out  
 
+# User Interface Components
+
+- JFrame
+- JPanel
+- JButton
+- JLabel
+- JTextField
+- JComboBox
+- JTextArea  
+
+**Layouts Used:**
+- FlowLayout  
+- BorderLayout  
+- GridLayout  
+
+# Scalability
+
+- Slot grid size can be increased easily  
+- Can be extended with:
+- Database integration  
+- Object-based slot management  
+- Time-based parking analytics
+ 
+# Conclusion
+
+The **Smart Parking System** demonstrates effective use of **DSA concepts** with a responsive **Java Swing GUI**.  
+It simulates real-world parking operations and can be expanded into a full-scale parking management system.
+
+# How to Run
+1. Clone the repository  
+2. Open project in any Java IDE (IntelliJ / NetBeans / Eclipse)  
+3. Run the main Java file  
+4. Enjoy the Smart Parking System 
